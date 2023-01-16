@@ -1,6 +1,6 @@
 ## Genius Game
 
-This project is an implementation in VHDL of the game Genius (also known as Simon) for DE1-SoC FPGA.
+This project is an implementation in VHDL of the game Genius (also known as Simon) for FPGA EMU.
 
 ## Circuit Scheme 
 
